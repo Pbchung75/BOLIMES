@@ -1,10 +1,9 @@
 # BOLIMES
 BOLIMES: Boruta–LIME optiMized fEature
 Selection for Gene Expression Classification
-Bich-Chung Phan1, Thanh Ma1, Huu-Hoa Nguyen1, and Thanh-Nghi Do1
-Can Tho University, Can Tho, Vietnam
-{pbchung,mtthanh,nhhoa,dtnghi}@ctu.edu.vn
-Abstract. Gene expression classification is a pivotal yet challenging
+
+**Abstract. **
+Gene expression classification is a pivotal yet challenging
 task in bioinformatics, primarily due to the high dimensionality of ge-
 nomic data and the risk of overfitting. To bridge this gap, we propose
 BOLIMES, a novel feature selection algorithm designed to enhance gene
