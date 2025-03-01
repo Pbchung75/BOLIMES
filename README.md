@@ -24,7 +24,7 @@ dimensionality reduction with high classification performance, offering a
 powerful solution for high-dimensional gene expression analysis.
 Keywords: Image Classification · Gene Expression · Boruta · LIME ·
 Feature Selection
-![LIME3](https://github.com/user-attachments/assets/8a66ad21-603b-4e7c-840e-8a2586175a27)
+
 
 
 https://arxiv.org/abs/2502.13080
