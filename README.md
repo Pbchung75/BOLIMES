@@ -1,10 +1,7 @@
-![LIME3](https://github.com/user-attachments/assets/34699d78-9f02-4f5d-b813-33ed999e7c77)
-
 # BOLIMES
 BOLIMES: Boruta–LIME optiMized fEature
 Selection for Gene Expression Classification
 
-**Abstract. **
 Gene expression classification is a pivotal yet challenging
 task in bioinformatics, primarily due to the high dimensionality of ge-
 nomic data and the risk of overfitting. To bridge this gap, we propose
