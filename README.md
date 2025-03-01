@@ -1,3 +1,4 @@
+![LIME](https://github.com/user-attachments/assets/beb08ae7-05b0-4e3b-8636-84de6a6b3311)
 # BOLIMES
 BOLIMES: Boruta–LIME optiMized fEature
 Selection for Gene Expression Classification
@@ -23,6 +24,8 @@ dimensionality reduction with high classification performance, offering a
 powerful solution for high-dimensional gene expression analysis.
 Keywords: Image Classification · Gene Expression · Boruta · LIME ·
 Feature Selection
+![LIME3](https://github.com/user-attachments/assets/8a66ad21-603b-4e7c-840e-8a2586175a27)
+
 
 https://arxiv.org/abs/2502.13080
 
