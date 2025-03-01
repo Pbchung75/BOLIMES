@@ -1,6 +1,4 @@
-# BOLIMES
-BOLIMES: Boruta–LIME optiMized fEature
-Selection for Gene Expression Classification
+# BOLIMES: Boruta–LIME optiMized fEature Selection for Gene Expression Classification
 
 Gene expression classification is a pivotal yet challenging
 task in bioinformatics, primarily due to the high dimensionality of ge-
